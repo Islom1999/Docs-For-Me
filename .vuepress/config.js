@@ -10,9 +10,25 @@ export default defineUserConfig({
       {
         text: 'NestJs docs',
         link: '/nest/',
+      },
+      {
+        text: 'JS docs',
+        link: '/js/',
       }
     ],
     sidebar: {
+        '/js/': [
+          {
+            text: 'JS Reference',
+            collapsible: false,
+            children: [
+              'index.md',
+              '1-dars', '2-dars', '3-dars', '4-dars', '5-dars', '6-dars', '7-dars',
+              '8-dars', '9-dars', '10-dars', '11-dars', '12-dars', '13-dars',
+              '14-dars', '15-dars', '16-dars', '17-dars', '18-dars'
+            ],
+          },
+        ],
         '/nest/': [
           {
             text: 'NestJs Reference',

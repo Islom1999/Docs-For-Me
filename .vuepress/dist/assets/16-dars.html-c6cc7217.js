@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-87222540","path":"/js/16-dars.html","title":"📔 16-dars","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Amalyot","slug":"amalyot","link":"#amalyot","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"js/16-dars.md"}');export{t as data};

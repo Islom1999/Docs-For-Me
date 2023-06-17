@@ -1,5 +1,5 @@
 
-# Swagger ulash
+# 📔 Swagger ulash
 
 Swagger UI-ni Nest.js proyektingizda ulab ishlatish uchun quyidagi qadam-larni bajaring:
 

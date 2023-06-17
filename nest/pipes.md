@@ -1,4 +1,4 @@
-# Pipes
+# 📔 Pipes
 
 NestJS dasturlash tilida "Pipes" haqida tushuntirishdan oldin, Pipes nima ekanligini tushunish kerak.
 

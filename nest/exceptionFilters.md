@@ -1,4 +1,4 @@
-# Exception Filters
+# 📔 Exception Filters
 
 # 1 - Tushunchalar
 

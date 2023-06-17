@@ -1,4 +1,4 @@
-# Guards
+# 📔 Guards
 
 NestJS'da "Guards" degan tushuncha ro'yxatdan o'tgan foydalanuvchini tekshirish uchun ishlatiladi. Ular asosan HTTP so'rovi amalga oshirishdan oldin bajariladigan bir qadam sifatida xizmat qiladi. "Guards" bilan ishlashning yaxshi misoli ro'yxatdan o'tgan foydalanuvchini tekshiruvchi guard yaratish bo'lishi mumkin.
 
