@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-69aea1da","path":"/nest/interseptions.html","title":"Interceptors","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"nest/interseptions.md"}');export{t as data};

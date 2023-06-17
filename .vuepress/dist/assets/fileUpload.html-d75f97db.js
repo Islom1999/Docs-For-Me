@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02fdcb1e","path":"/nest/fileUpload.html","title":"Upload file","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"nest/fileUpload.md"}');export{e as data};
