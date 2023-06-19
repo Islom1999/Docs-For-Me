@@ -36,7 +36,8 @@ export default defineUserConfig({
             children: [
               'index.md',
               'guard.md','pipes.md', 'exceptionFilters.md', 'googleAuth.md', 
-              'swagger.md', 'fileUpload.md', 'interseptions.md', 'middleware.md', 
+              'swagger.md', 'fileUpload.md', 'interseptions.md', 'middleware.md',
+              'session.md', 'cookie.md' 
             ],
           },
         ],
