@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-37bcc0ef","path":"/nest/exceptionFilters.html","title":"📔 Exception Filters","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1687030297000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":2}]},"filePathRelative":"nest/exceptionFilters.md"}');export{e as data};

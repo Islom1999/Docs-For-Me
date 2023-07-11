@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-2d0a9a6d","path":"/js/","title":"📔 JS Kurs haqida","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Mavzular Royhati","slug":"mavzular-royhati","link":"#mavzular-royhati","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"js/index.md"}');export{a as data};

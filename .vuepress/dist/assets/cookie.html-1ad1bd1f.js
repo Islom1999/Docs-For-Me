@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-18b018b7","path":"/nest/cookie.html","title":"📔 Cookie","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1687167503000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":1}]},"filePathRelative":"nest/cookie.md"}');export{e as data};

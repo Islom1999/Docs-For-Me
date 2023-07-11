@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69aea1da","path":"/nest/interseptions.html","title":"📔 Interceptors","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1687030297000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":2}]},"filePathRelative":"nest/interseptions.md"}');export{e as data};

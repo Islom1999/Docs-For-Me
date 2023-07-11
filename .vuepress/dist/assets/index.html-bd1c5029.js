@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51f86e14","path":"/docker/","title":"Docker haqida","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689099879000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":1}]},"filePathRelative":"docker/index.md"}');export{e as data};

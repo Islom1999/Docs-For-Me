@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-2d5cfd52","path":"/nest/guard.html","title":"📔 Guards","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1686997061000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":1}]},"filePathRelative":"nest/guard.md"}');export{a as data};

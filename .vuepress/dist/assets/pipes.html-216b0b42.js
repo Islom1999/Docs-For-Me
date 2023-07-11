@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-50d61372","path":"/nest/pipes.html","title":"📔 Pipes","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1686997061000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":1}]},"filePathRelative":"nest/pipes.md"}');export{e as data};

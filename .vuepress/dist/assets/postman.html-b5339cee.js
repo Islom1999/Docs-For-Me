@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c25d5e46","path":"/nest/postman.html","title":"postman set variable","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689099879000,"contributors":[{"name":"Islom Karimov","email":"islomkarimovalisherovich@gmail.com","commits":1}]},"filePathRelative":"nest/postman.md"}');export{t as data};
